@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk=self.webpackChunk||[]).push([[30696],{40022:function(s){s.exports=JSON.parse('{"allTagsPath":"/zh/blog/tags","slug":"/zh/blog/tags/observability","name":"Observability","count":1,"permalink":"/zh/blog/tags/observability"}')}}]);
